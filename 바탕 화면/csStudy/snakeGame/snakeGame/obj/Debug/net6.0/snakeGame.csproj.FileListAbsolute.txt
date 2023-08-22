@@ -1,0 +1,15 @@
+C:\Users\audrm\바탕 화면\csStudy\snakeGame\snakeGame\bin\Debug\net6.0\snakeGame.exe
+C:\Users\audrm\바탕 화면\csStudy\snakeGame\snakeGame\bin\Debug\net6.0\snakeGame.deps.json
+C:\Users\audrm\바탕 화면\csStudy\snakeGame\snakeGame\bin\Debug\net6.0\snakeGame.runtimeconfig.json
+C:\Users\audrm\바탕 화면\csStudy\snakeGame\snakeGame\bin\Debug\net6.0\snakeGame.dll
+C:\Users\audrm\바탕 화면\csStudy\snakeGame\snakeGame\bin\Debug\net6.0\snakeGame.pdb
+C:\Users\audrm\바탕 화면\csStudy\snakeGame\snakeGame\obj\Debug\net6.0\snakeGame.csproj.AssemblyReference.cache
+C:\Users\audrm\바탕 화면\csStudy\snakeGame\snakeGame\obj\Debug\net6.0\snakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\audrm\바탕 화면\csStudy\snakeGame\snakeGame\obj\Debug\net6.0\snakeGame.AssemblyInfoInputs.cache
+C:\Users\audrm\바탕 화면\csStudy\snakeGame\snakeGame\obj\Debug\net6.0\snakeGame.AssemblyInfo.cs
+C:\Users\audrm\바탕 화면\csStudy\snakeGame\snakeGame\obj\Debug\net6.0\snakeGame.csproj.CoreCompileInputs.cache
+C:\Users\audrm\바탕 화면\csStudy\snakeGame\snakeGame\obj\Debug\net6.0\snakeGame.dll
+C:\Users\audrm\바탕 화면\csStudy\snakeGame\snakeGame\obj\Debug\net6.0\refint\snakeGame.dll
+C:\Users\audrm\바탕 화면\csStudy\snakeGame\snakeGame\obj\Debug\net6.0\snakeGame.pdb
+C:\Users\audrm\바탕 화면\csStudy\snakeGame\snakeGame\obj\Debug\net6.0\snakeGame.genruntimeconfig.cache
+C:\Users\audrm\바탕 화면\csStudy\snakeGame\snakeGame\obj\Debug\net6.0\ref\snakeGame.dll
